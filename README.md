@@ -6,6 +6,7 @@ This is a simple web3 app that allows you to store and retrieve data from the Et
 
 - Node.js/ReacJS
 - Solidity
+- web3.js
 - Ganache
 - Metamask
 - Truffle
